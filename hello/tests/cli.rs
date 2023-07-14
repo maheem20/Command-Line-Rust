@@ -1,4 +1,2 @@
+use std::process::Command;
 #[test]
-fn works() {
-    assert!(true);
-}
