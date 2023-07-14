@@ -1,2 +1,4 @@
 #[test]
-fn works() {}
+fn works() {
+    assert!(true);
+}
