@@ -1,4 +1,6 @@
 use std::process::Command;
 
 #[test]
-fn runs() {}
+fn runs() {
+    let mut cmd = Command::new("ls");
+}
